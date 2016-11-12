@@ -11,5 +11,4 @@ interface WorkdayContract {
     interface UserActionsListener {
 
     }
-
 }
