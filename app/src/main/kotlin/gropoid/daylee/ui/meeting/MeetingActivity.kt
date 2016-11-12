@@ -1,7 +1,8 @@
-package gropoid.daylee
+package gropoid.daylee.ui.meeting
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import gropoid.daylee.R
 
 class MeetingActivity : AppCompatActivity() {
 
